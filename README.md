@@ -38,6 +38,9 @@ Time to explore the world of Github and social coding. Almost all the cool proje
 1. Install Git for your operating system. Here's the [Atlassian Tutorial](https://www.atlassian.com/git/tutorials/install-git) and [Git's Installer Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 2. Start on the [Git Basics Run-through](/git-basics.md). Ask one of the organisers if you're having trouble. 
 
+### Extras 
+* Install [Hub for Git](https://hub.github.com/). It makes Git and Github easier from the command line.
+
 ## 5. Create Your Own Website or Blog For Free on Github
 
 1. Start with [Github's *Github Pages* Guide](https://pages.github.com/). When that's complete and working we'll install a better theme. 
