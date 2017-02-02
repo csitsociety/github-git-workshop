@@ -24,8 +24,27 @@ Time to explore the world of Github and social coding. Almost all the cool proje
 2. Find Github **users** you're interestedd in with [thundergolfer/find-people-to-follow](https://github.com/thundergolfer/automated-github-organization-invites)
 
 ### Extras 
-1. Find fellow RMIT students to follow in the [rmit-programming-club Github organisation](https://github.com/orgs/rmit-programming-club/people)
+* Find fellow RMIT students to follow in the [rmit-programming-club Github organisation](https://github.com/orgs/rmit-programming-club/people)
 
-## Learning How to Use Github
+## 3. Learning How to Use Github
 
 1. Practice *forking* and submitting *pull-requests (PRs)* with [Github/spoon-knife](https://github.com/octocat/Spoon-Knife)
+2. Read through a rundown of Github user etiquette [at /rstacruz/collaborative-etiquette](https://github.com/rstacruz/collaborative-etiquette)
+
+#### *We're not creating a repository just yet, we'll get to that after learning basic Git*
+
+## 4. Installing and Learning How to Use Git (Distributed Version Control System)
+
+1. Install Git for your operating system. Here's the [Atlassian Tutorial](https://www.atlassian.com/git/tutorials/install-git) and [Git's Installer Guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+2. Start on the [Git Basics Run-through](/git-basics.md). Ask one of the organisers if you're having trouble. 
+
+## 5. Create Your Own Website or Blog For Free on Github
+
+1. Start with [Github's *Github Pages* Guide](https://pages.github.com/). When that's complete and working we'll install a better theme. 
+2. Install a new theme of your choosing. [Instructions Here](/gh-pages-instructions.md)
+3. Add a link to your website in your Github profile description.
+
+### Extras 
+
+* Secure a customer domain for your Github website and [set it up with these instructions.](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
+
