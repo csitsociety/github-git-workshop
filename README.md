@@ -21,7 +21,7 @@ Content for the Intro. to Github &amp; Git workshop run at RMIT in 2017
 Time to explore the world of Github and social coding. Almost all the cool projects and people are on Github somewhere. 
 
 1. Find **Repos** you're interested in with [Github Explore](https://github.com/explore) or [Github Trending](https://github.com/trending) or [Github Search](https://github.com/search?utf8=%E2%9C%93&q=Tensorflow)
-2. Find Github **users** you're interestedd in with [thundergolfer/find-people-to-follow](https://github.com/thundergolfer/automated-github-organization-invites)
+2. ~~Find Github **users** you're interestedd in with [thundergolfer/find-people-to-follow]~~(https://github.com/thundergolfer/automated-github-organization-invites)
 
 ### Extras 
 * Find fellow RMIT students to follow in the [rmit-programming-club Github organisation](https://github.com/orgs/rmit-programming-club/people)
